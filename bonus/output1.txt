@@ -1,0 +1,21 @@
+total 76
+drwxr-xr-x 2 psoares- 2022_lisboa 4096 Sep 20 23:12 .
+drwxr-xr-x 5 psoares- 2022_lisboa 4096 Sep 20 23:04 ..
+-rw-r--r-- 1 psoares- 2022_lisboa 3962 Sep 20 22:54 args_bonus.c
+-rw-r--r-- 1 psoares- 2022_lisboa 5184 Sep 20 23:02 args_bonus.o
+-rw-r--r-- 1 psoares- 2022_lisboa 1984 Sep 20 22:34 exec_bonus.c
+-rw-r--r-- 1 psoares- 2022_lisboa 3216 Sep 20 23:02 exec_bonus.o
+-rw-r--r-- 1 psoares- 2022_lisboa 2125 Sep 20 22:52 get_next_line_bonus.c
+-rw-r--r-- 1 psoares- 2022_lisboa 2856 Sep 20 23:02 get_next_line_bonus.o
+-rw-r--r-- 1 psoares- 2022_lisboa    0 Sep 20 23:12 input1.txt
+-rw-r--r-- 1 psoares- 2022_lisboa 1748 Sep 20 22:30 libft_func_bonus.c
+-rw-r--r-- 1 psoares- 2022_lisboa 2272 Sep 20 23:02 libft_func_bonus.o
+-rw-r--r-- 1 psoares- 2022_lisboa 1524 Sep 20 23:02 main_bonus.c
+-rw-r--r-- 1 psoares- 2022_lisboa 2648 Sep 20 23:02 main_bonus.o
+-rw-r--r-- 1 psoares- 2022_lisboa    0 Sep 20 23:12 output1.txt
+-rw-r--r-- 1 psoares- 2022_lisboa 1203 Sep 20 23:11 output.txt
+-rw-r--r-- 1 psoares- 2022_lisboa 2484 Sep 20 22:53 pipex_bonus.h
+-rw-r--r-- 1 psoares- 2022_lisboa 2009 Sep 20 20:21 split_bonus.c
+-rw-r--r-- 1 psoares- 2022_lisboa 2392 Sep 20 23:02 split_bonus.o
+-rw-r--r-- 1 psoares- 2022_lisboa 2112 Sep 20 20:22 split_utils_bonus.c
+-rw-r--r-- 1 psoares- 2022_lisboa 2608 Sep 20 23:02 split_utils_bonus.o

@@ -1,0 +1,14 @@
+total 64
+drwxr-xr-x  5 psoares- 2022_lisboa  4096 Sep 21 22:21 .
+drwxr-xr-x 11 psoares- 2022_lisboa  4096 Sep 21 21:30 ..
+drwxr-xr-x  2 psoares- 2022_lisboa  4096 Sep 21 22:18 bonus
+drwxr-xr-x  8 psoares- 2022_lisboa  4096 Sep 21 21:30 .git
+-rw-r--r--  1 psoares- 2022_lisboa    12 Sep 21 22:21 here_doc
+-rw-r--r--  1 psoares- 2022_lisboa    36 Sep 21 21:55 input.txt
+-rw-r--r--  1 psoares- 2022_lisboa  1507 Sep 21 21:30 Makefile
+drwxr-xr-x  2 psoares- 2022_lisboa  4096 Sep 21 22:15 mandatory
+-rw-r--r--  1 psoares- 2022_lisboa  2294 Sep 21 21:32 out
+-rw-r--r--  1 psoares- 2022_lisboa     0 Sep 21 21:32 outfile.txt
+-rw-r--r--  1 psoares- 2022_lisboa     4 Sep 21 22:20 output.txt
+-rwxr-xr-x  1 psoares- 2022_lisboa 22664 Sep 21 22:18 pipex
+-rw-r--r--  1 psoares- 2022_lisboa     0 Sep 21 22:21 wc -c

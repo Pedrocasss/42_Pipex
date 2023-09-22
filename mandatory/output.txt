@@ -1,0 +1,69 @@
+args.c
+args.o
+cat
+exec.c
+exec.o
+input.txt
+libft_func.c
+libft_func.o
+ls
+main.c
+main.o
+Makefile
+out
+output.txt
+pipex
+pipex.h
+sleep 5
+split.c
+split.o
+split_utils.c
+split_utils.o
+utils.o
+wc -loutput.txt
+args.c
+args.o
+cat
+exec.c
+exec.o
+input.txt
+libft_func.c
+libft_func.o
+ls
+main.c
+main.o
+Makefile
+out
+output.txt
+pipex
+pipex.h
+sleep 5
+split.c
+split.o
+split_utils.c
+split_utils.o
+utils.o
+wc -loutput.txt
+args.c
+args.o
+cat
+exec.c
+exec.o
+input.txt
+libft_func.c
+libft_func.o
+ls
+main.c
+main.o
+Makefile
+out
+output.txt
+pipex
+pipex.h
+sleep 5
+split.c
+split.o
+split_utils.c
+split_utils.o
+utils.o
+wc -loutput.txt

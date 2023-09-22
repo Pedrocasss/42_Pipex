@@ -1,0 +1,10 @@
+ola
+ovaca
+vacao
+-vaca
+\nvaca
+v a c a
+v.a.c.a
+v/a/c/a
+pedrogas
+opedro
